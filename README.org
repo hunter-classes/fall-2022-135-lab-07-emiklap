@@ -1,0 +1,44 @@
+* Fall 2022 - Lab 07
+
+* Last name:
+
+* First name:
+
+* GitHub username:
+
+* Notes:
+
+
+  
+* General instructions:
+- Fill in your name and GitHub username on top.
+- Use the Notes section to add any notes to the instructor.
+- The main lab description can be found here:
+  https://maryash.github.io/135/labs/lab_07.html 
+
+
+* Specific instructions for lab 07
+
+For this lab, it is up to you how to structure and write everything
+and as such this repo starts mostly empty. It includes ~doctest.h~ in
+case you plan to use it for testing but for this lab ~doctest.h~ based
+tests are not required.
+
+Even though you will decide on what and how to implement your
+solution, the lab *must* include the following:
+
+1. There *must* be a ~Makefile~ that has at least the following
+   targets: 
+   1. ~main~ to build an executable named ~main~.
+   2. ~clean~ which will get rid of ~.o~ files.
+   3. If you are using ~doctest.h~ you should have a ~tests~ target but
+      if you do not, you don't need this target.
+2. You *must* include at least one poorly formatted C++ file to test
+   your program on in the repository.
+3. *Do not* add/commit/push the "fixed" file that your program
+   produces.
+4. If I need to know anything, please write it in the *Notes:* section
+   above.
+
+
+
