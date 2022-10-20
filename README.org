@@ -7,6 +7,8 @@
 * GitHub username: emiklap
 
 * Notes:
+- Read the incorrect code into the main executable file. (Example: $ ./main < bad-code.cpp) This will produce a brand new cpp file with the correct indentation.
+- To check the functions used for this lab, please refer to the funcs.cpp file.
 
 
   
