@@ -1,3 +1,5 @@
+//Comment for pull request lab
+//Another comment for the pull request lab :) 
 #include <iostream>
 #include <fstream>
 #include "funcs.h"
